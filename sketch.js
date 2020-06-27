@@ -1,5 +1,5 @@
 function checkForWinner() {
-  console.log("Checking for winner...")
+  console.log("Checking for Winner...")
   var winner
   var playerOne = getPlayerOne() //playerOne is always blue!
     //console.log('checkForWinner, playerOne is: ', playerOne)
